@@ -7,7 +7,7 @@
   - [osTicket: Post-Installation Configuration](https://github.com/mo-dahir/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mo-dahir/ticket-lifecycle)
 - <b>Microsoft Azure</b>
-  - [Creating Virtual Machine within Azure](https://github.com/jrobertrafol/creating-vm)
+  - [Creating Virtual Machine within Azure](https://github.com/mo-dahir/creating-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mo-dahir/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mo-dahir/azure-network-protocols)
 

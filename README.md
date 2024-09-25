@@ -2,6 +2,9 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
+- <b> ServiceNow Projects </b>
+
+
 - <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mo-dahir/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mo-dahir/post-install-config)

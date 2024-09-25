@@ -1,4 +1,4 @@
-<h1>Hi, I'm Mo, an <a href="https://linkedin.com/in/mo-dahir">IT Professional</a>☺</h1>
+<h1>Hi, I'm Mo, an <a href="https://linkedin.com/in/mo-dahir">IT Professional 😁
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 

@@ -2,18 +2,42 @@
 
 <h2>👨‍💻 Information Technology Projects:</h2>
 
-- <b> ServiceNow Projects </b>
-  - [Building Custom App with AES](https://github.com/mo-dahir/App-Engine-Studio)
+<b>ServiceNow</b>
 
-  
-- <b>osTicket (Help Desk Ticketing System)</b>
+- [Building Custom App with AES](https://github.com/mo-dahir/App-Engine-Studio)
+
+<br>
+
+<h2></h2>
+
+  <b>osTicket (Help Desk Ticketing System)</b>
   - [osTicket: Prerequisites and Installation](https://github.com/mo-dahir/osticket-prereqs)
   - [osTicket: Post-Installation Configuration](https://github.com/mo-dahir/post-install-config)
   - [osTicket: Ticket Lifecycle Examples](https://github.com/mo-dahir/ticket-lifecycle)
-- <b>Microsoft Azure</b>
+
+    <br>
+
+<h2></h2>
+
+- <h3>☁️ Microsoft Azure:</h3>
+
   - [Creating Virtual Machine within Azure](https://github.com/mo-dahir/creating-vm)
   - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mo-dahir/configure-ad)
   - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mo-dahir/azure-network-protocols)
+ 
+    <br>
+
+<h2></h2>
+
+ 
+
+
+
+
+
+
+
+
 
 <h2>🤳Connect with me:</h2>
 

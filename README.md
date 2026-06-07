@@ -66,35 +66,37 @@ Cybersecurity professional with a B.S. in Cybersecurity and Information Assuranc
 </details>
 
 <br>
+<h2>👨🏾‍💻 Projects</h2>
 
-<h2>👨‍💻 Projects:</h2>
-<h3>🚀 ServiceNow:</h3>
+<h3>🔐 Cybersecurity</h3>
 
-  - [Building Custom App with AES](https://github.com/mo-dahir/App-Engine-Studio)
-  
+* **Proxmox Enterprise Cybersecurity Lab — In Progress**
+
+  * Building a segmented enterprise-style security lab featuring Proxmox, pfSense, Active Directory, Elastic Security, Wazuh, Sysmon, Velociraptor, Kali Linux, and Windows endpoints.
+
 <br>
 
-<h2></h2>
+<h3>🚀 ServiceNow Development</h3>
 
-<h3> 🦘 osTicket (Help Desk Ticketing System):</h3>
- 
-  - [osTicket: Prerequisites and Installation](https://github.com/mo-dahir/osticket-prereqs)
-  - [osTicket: Post-Installation Configuration](https://github.com/mo-dahir/post-install-config)
-  - [osTicket: Ticket Lifecycle Examples](https://github.com/mo-dahir/ticket-lifecycle)
+* [Building a Custom Application with App Engine Studio](https://github.com/mo-dahir/App-Engine-Studio)
 
-    <br>
+<br>
 
-<h2></h2>
+<h3>☁️ Microsoft Azure & Active Directory</h3>
 
-<h3>☁️ Microsoft Azure:</h3>
+* [Creating a Virtual Machine within Azure](https://github.com/mo-dahir/creating-vm)
+* [Configuring On-Premises Active Directory within Azure VMs](https://github.com/mo-dahir/configure-ad)
+* [Network Security Groups and Inspecting Network Protocols](https://github.com/mo-dahir/azure-network-protocols)
 
-  - [Creating Virtual Machine within Azure](https://github.com/mo-dahir/creating-vm)
-  - [Configuring On-premises Active Directory within Azure VMs](https://github.com/mo-dahir/configure-ad)
-  - [Network Security Groups (NSGs) and Inspecting Network Protocols](https://github.com/mo-dahir/azure-network-protocols)
- 
-    <br>
+<br>
 
-<h2></h2>
+<h3>🦘 IT Support & Ticketing</h3>
+
+* [osTicket: Prerequisites and Installation](https://github.com/mo-dahir/osticket-prereqs)
+* [osTicket: Post-Installation Configuration](https://github.com/mo-dahir/post-install-config)
+* [osTicket: Ticket Lifecycle Examples](https://github.com/mo-dahir/ticket-lifecycle)
+
+<br>
 
 <h2>🤳🏾 Connect with me</h2>
 

@@ -70,9 +70,10 @@ Cybersecurity professional with a B.S. in Cybersecurity and Information Assuranc
 
 <h3>🔐 Cybersecurity</h3>
 
-* **Proxmox Enterprise Cybersecurity Lab — In Progress**
+* [**Proxmox Enterprise Cybersecurity Lab — In Progress**](https://github.com/mo-dahir/proxmox-cybersecurity-lab)
 
   * Building a segmented enterprise-style security lab featuring Proxmox, pfSense, Active Directory, Elastic Security, Wazuh, Sysmon, Velociraptor, Kali Linux, and Windows endpoints.
+
 
 <br>
 
